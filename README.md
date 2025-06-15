@@ -1,6 +1,6 @@
 # [📈 Live Status](https://status.justuptowngames.com): <!--live status--> **🟩 All systems operational**
 
-This repository contains the open-source uptime monitor and status page for [IWL Entertainment](http://www.iwle.com), powered by [Upptime](https://github.com/upptime/upptime).
+This repository contains the open-source uptime monitor and status page for [Just Uptown Games](http://www.justuptowngames.com), powered by [Upptime](https://github.com/upptime/upptime).
 
 [![Uptime CI](https://github.com/IWLEntertainment/upptime/workflows/Uptime%20CI/badge.svg)](https://github.com/IWLEntertainment/upptime/actions?query=workflow%3A%22Uptime+CI%22)
 [![Response Time CI](https://github.com/IWLEntertainment/upptime/workflows/Response%20Time%20CI/badge.svg)](https://github.com/IWLEntertainment/upptime/actions?query=workflow%3A%22Response+Time+CI%22)
