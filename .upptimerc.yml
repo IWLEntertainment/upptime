@@ -26,7 +26,7 @@ status-website:
   cname: status.justuptowngames.com
   logoUrl: https://raw.githubusercontent.com/IWLEntertainment/upptime/master/assets/justuptowngames_logo.png
   name: "Just Uptown Games - Status (powered by Upptime)"
-  introTitle: "**Just Uptown Games** - __Web Services Monitor__"
+  introTitle: "Web Services Monitor"
   introMessage: This status page provides updates for the Just Uptown Games webstore servers.<br><br>If you visit the main justuptowngames.com website and notice a slowdown in the web server or unresponsive emails, check this page for updates. We should have an update here about it.<br><br>In the event of any major outages, there will be an update here.
   navbar:
     - title: Status
