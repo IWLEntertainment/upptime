@@ -4,6 +4,10 @@ repo: upptime
 sites:
   - name: Web
     url: https://www.justuptowngames.com
+  - name: Webserver
+    url: 63.141.255.191
+    port: 80
+    check: tcp-ping
   - name: DNS
     url: main.justuptowngames.com
     port: 53
