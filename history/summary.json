@@ -4,18 +4,20 @@
     "url": "https://www.justuptowngames.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.justuptowngames.com.ico",
     "slug": "web",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 665,
-    "timeDay": 792,
-    "timeWeek": 665,
-    "timeMonth": 665,
-    "timeYear": 665,
-    "dailyMinutesDown": {}
+    "time": 676,
+    "timeDay": 797,
+    "timeWeek": 676,
+    "timeMonth": 676,
+    "timeYear": 676,
+    "dailyMinutesDown": {
+      "2025-06-19": 0
+    }
   },
   {
     "name": "Webserver",
@@ -58,53 +60,59 @@
     "url": "mail.justuptowngames.com",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "pop-3",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 356,
-    "timeDay": 441,
-    "timeWeek": 356,
-    "timeMonth": 356,
-    "timeYear": 356,
-    "dailyMinutesDown": {}
+    "time": 375,
+    "timeDay": 511,
+    "timeWeek": 375,
+    "timeMonth": 375,
+    "timeYear": 375,
+    "dailyMinutesDown": {
+      "2025-06-19": 0
+    }
   },
   {
     "name": "SMTP",
     "url": "mail.justuptowngames.com",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "smtp",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 215,
-    "timeDay": 301,
-    "timeWeek": 215,
-    "timeMonth": 215,
-    "timeYear": 215,
-    "dailyMinutesDown": {}
+    "time": 230,
+    "timeDay": 347,
+    "timeWeek": 230,
+    "timeMonth": 230,
+    "timeYear": 230,
+    "dailyMinutesDown": {
+      "2025-06-19": 0
+    }
   },
   {
     "name": "IMAP",
     "url": "mail.justuptowngames.com",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "imap",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 215,
-    "timeDay": 292,
-    "timeWeek": 215,
-    "timeMonth": 215,
-    "timeYear": 215,
-    "dailyMinutesDown": {}
+    "time": 231,
+    "timeDay": 349,
+    "timeWeek": 231,
+    "timeMonth": 231,
+    "timeYear": 231,
+    "dailyMinutesDown": {
+      "2025-06-19": 0
+    }
   }
 ]
