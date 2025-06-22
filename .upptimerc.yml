@@ -9,17 +9,17 @@ sites:
     port: 80
     check: tcp-ping
   - name: DNS
-    url: main.justuptowngames.com
+    url: 63.141.255.191
     port: 53
     check: tcp-ping
   - name: POP3
-    url: mail.justuptowngames.com
+    url: 63.141.255.191
     port: 110
   - name: SMTP
-    url: mail.justuptowngames.com
+    url: 63.141.255.191
     port: 465
   - name: IMAP
-    url: mail.justuptowngames.com
+    url: 63.141.255.191
     port: 143
 status-website:
   theme: ocean
