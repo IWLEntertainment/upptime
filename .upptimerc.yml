@@ -2,8 +2,6 @@
 owner: IWLEntertainment
 repo: upptime
 sites:
-  - name: Web
-    url: https://www.justuptowngames.com
   - name: Webserver
     url: 63.141.255.191
     port: 80
