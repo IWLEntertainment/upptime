@@ -21,7 +21,7 @@ sites:
     port: 143
 status-website:
   theme: ocean
-  cname: status.justuptowngames.com
+  baseUrl: /upptime
   logoUrl: https://raw.githubusercontent.com/IWLEntertainment/upptime/master/assets/justuptowngames_logo.png
   name: "Just Uptown Games - Status (powered by Upptime)"
   introTitle: "Web Services Monitor"
