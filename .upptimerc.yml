@@ -6,19 +6,6 @@ sites:
     url: 63.141.255.191
     port: 80
     check: tcp-ping
-  - name: DNS
-    url: 63.141.255.191
-    port: 53
-    check: tcp-ping
-  - name: POP3
-    url: 63.141.255.191
-    port: 110
-  - name: SMTP
-    url: 63.141.255.191
-    port: 465
-  - name: IMAP
-    url: 63.141.255.191
-    port: 143
 status-website:
   theme: ocean
   baseUrl: /upptime
