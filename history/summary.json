@@ -4,19 +4,19 @@
     "url": "63.141.255.191",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "webserver",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "97.34%",
+    "uptimeWeek": "99.62%",
+    "uptimeMonth": "99.91%",
+    "uptimeYear": "99.98%",
     "time": 48,
-    "timeDay": 55,
-    "timeWeek": 51,
+    "timeDay": 45,
+    "timeWeek": 50,
     "timeMonth": 50,
     "timeYear": 48,
     "dailyMinutesDown": {
-      "2025-10-16": 0
+      "2025-10-16": 38
     }
   }
 ]
