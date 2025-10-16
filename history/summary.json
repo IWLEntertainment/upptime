@@ -4,7 +4,7 @@
     "url": "63.141.255.191",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "webserver",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -15,6 +15,8 @@
     "timeWeek": 51,
     "timeMonth": 50,
     "timeYear": 48,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-10-16": 0
+    }
   }
 ]
